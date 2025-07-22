@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1047987094664",
+    "firebase_url": "https://chesswager-cnb-default-rtdb.firebaseio.com",
+    "project_id": "chesswager-cnb",
+    "storage_bucket": "chesswager-cnb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047987094664:android:a7baac9e071ce6a53a8b3d",
+        "android_client_info": {
+          "package_name": "com.greatvalleychesscnb.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRtmNULksXf8IaYS0fy5v1oRLrd3AbukI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
