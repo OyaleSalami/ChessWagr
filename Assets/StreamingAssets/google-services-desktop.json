@@ -8,20 +8,22 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1047987094664:android:a7baac9e071ce6a53a8b3d",
+        "mobilesdk_app_id": "1:1047987094664:ios:8d58dbc182fcedb33a8b3d",
         "android_client_info": {
           "package_name": "com.greatvalleychesscnb.com"
         }
       },
-      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDRtmNULksXf8IaYS0fy5v1oRLrd3AbukI"
+          "current_key": "AIzaSyCXbHSYii9BcrdYtrJyxYVMUS0-4FrDU8A"
         }
       ],
       "services": {
+        "analytics_service": {
+          "status": 0
+        },
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "status": 1
         }
       }
     }
