@@ -9,7 +9,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.greatvalleychesscnb.com</string>
+	<string>com.connectboy.chesswagr</string>
 	<key>PROJECT_ID</key>
 	<string>chesswager-cnb</string>
 	<key>STORAGE_BUCKET</key>
@@ -25,7 +25,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1047987094664:ios:8d58dbc182fcedb33a8b3d</string>
+	<string>1:1047987094664:ios:e9afdb471266135d3a8b3d</string>
 	<key>DATABASE_URL</key>
 	<string>https://chesswager-cnb-default-rtdb.firebaseio.com</string>
 </dict>
